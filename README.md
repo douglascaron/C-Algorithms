@@ -7,7 +7,7 @@
 </div>
     <p>This repository contains C programs that demonstrate the implementation of various data structures and algorithms. These implementations serve as educational resources and can be used as a reference for understanding the fundamental concepts of data structures and algorithms in C programming.</p>
     <p>Contributors
-      <a href="https://github.com/saqlain2204">
+      <a href="https://github.com/saqlain2204"> 
         <img src="https://avatars.githubusercontent.com/u/118016760?v=4">
       </a>
       <a href="https://github.com/vivekBoii">
